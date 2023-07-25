@@ -136,7 +136,7 @@
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
                             <img class="img-fluid rounded-circle mb-3" src="assets/img/testimonials-1.jpg" alt="..." />
                             <h5>MAHASISWA</h5>
-                            <p class="font-weight-light mb-0">"Informasi jadwal mengajar dosen"</p>
+                            <p class="font-weight-light mb-0">"Informasi Jadwal Mengajar Dosen"</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
